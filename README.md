@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Bhadani</h1>
-<h3 align="center">A Passionate Data Analyst from the USA with Expertise in Data Collection, Advanced Statistical Analysis, Data Visualization, and Interactive Reporting Tools to Drive Data-Driven Decision Making</h3>
+<h3 align="center">Data Engineer. PySpark · Kafka · Snowflake · Airflow. Real-time pipelines, ML integration, cloud infra.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansibhadani&label=Profile%20views&color=0e75b6&style=flat" alt="mansibhadani" /> </p>
 
